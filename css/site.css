@@ -1,6 +1,7 @@
 
 body{
-    display: flex;
+   /* display: flex; */
+   padding-top: 4rem ;
     justify-content: center;
     align-items: center;
     margin: 0;
@@ -9,6 +10,10 @@ body{
     font-family: 'Open Sans', sans-serif;
     background-image: url('https://source.unsplash.com/WLUHO9A_xik/1600x900');
     font-size: 120%;
+}
+
+#weathercard{
+    margin: 1em auto;
 }
 
 
