@@ -1,5 +1,5 @@
 
-# Weather# The website showcases weather forecast for 5 US cities: New York, Los Angeles, Chicago, Philadelphia, and Tampa
+# The website showcases weather forecast for 5 US cities: New York, Los Angeles, Chicago, Philadelphia, and Tampa
 
  # https://tashi-sherpa.github.io/Weather/
 
